@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Socket IO Demo</string>
+    <string name="connect">Socket Connected...............</string>
+    <string name="disconnect">Disconnected, Please check your internet connection</string>
+    <string name="error_connect">Failed to connect</string>
+    <string name="connected">Connected already..</string>
+</resources>
